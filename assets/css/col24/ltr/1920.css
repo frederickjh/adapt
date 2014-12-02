@@ -294,143 +294,142 @@ body {
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .push_1 {
-  left: 160px;
+  left: 80px;
 }
 
 .container_24 .push_2 {
-  left: 320px;
+  left: 160px;
 }
 
 .container_24 .push_3 {
-  left: 480px;
+  left: 240px;
 }
 
 .container_24 .push_4 {
-  left: 640px;
+  left: 320px;
 }
 
 .container_24 .push_5 {
-  left: 800px;
+  left: 400px;
 }
 
 .container_24 .push_6 {
-  left: 960px;
+  left: 480px;
 }
 
 .container_24 .push_7 {
-  left: 1120px;
+  left: 560px;
 }
 
 .container_24 .push_8 {
-  left: 1280px;
+  left: 640px;
 }
 
 .container_24 .push_9 {
-  left: 1440px;
+  left: 720px;
 }
 
 .container_24 .push_10 {
-  left: 1600px;
+  left: 800px;
 }
 
 .container_24 .push_11 {
-  left: 1760px;
+  left: 880px;
 }
 
 /* Pull Space >> 24 Columns
 ----------------------------------------------------------------------------------------------------*/
 
 .container_24 .pull_1 {
-  left: -160px;
+  left: -80px;
 }
 
 .container_24 .pull_2 {
-  left: -320px;
+  left: -160px;
 }
 
 .container_24 .pull_3 {
-  left: -480px;
+  left: -240px;
 }
 
 .container_24 .pull_4 {
-  left: -640px;
+  left: -320px;
 }
 
 .container_24 .pull_5 {
-  left: -800px;
+  left: -400px;
 }
 
 .container_24 .pull_6 {
-  left: -960px;
+  left: -480px;
 }
 
 .container_24 .pull_7 {
-  left: -1120px;
+  left: -560px;
 }
 
 .container_24 .pull_8 {
-  left: -1280px;
+  left: -640px;
 }
 
 .container_24 .pull_9 {
-  left: -1440px;
+  left: -720px;
 }
 
 .container_24 .pull_10 {
-  left: -1600px;
+  left: -800px;
 }
 
 .container_24 .pull_11 {
-  left: -1760px;
+  left: -880px;
 }
 
-
 .container_24 .pull_12 {
-  left: -1920px;
+  left: -960px;
 }
 
 .container_24 .pull_13 {
-  left: -2080px;
+  left: -1040px;
 }
 
 .container_24 .pull_14 {
-  left: -2240px;
+  left: -1120px;
 }
 
 .container_24 .pull_15 {
-  left: -2400px;
+  left: -1200px;
 }
 
 .container_24 .pull_16 {
-  left: -2560px;
+  left: -1280px;
 }
 
 .container_24 .pull_17 {
-  left: -2720px;
+  left: -1360px;
 }
 
 .container_24 .pull_18 {
-  left: -2880px;
+  left: -1440px;
 }
 
 .container_24 .pull_19 {
-  left: -3040px;
+  left: -1520px;
 }
 
 .container_24 .pull_20 {
-  left: -3200px;
+  left: -1600px;
 }
 
 .container_24 .pull_21 {
-  left: -3360px;
+  left: -1680px;
 }
 
 .container_24 .pull_22 {
-  left: -3520px;
+  left: -1760px;
 }
 
 .container_24 .pull_23 {
-  left: -3680px;
+  left: -1840px;
 }
 /* `Clear Floated Elements
 ----------------------------------------------------------------------------------------------------*/
